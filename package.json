@@ -1,0 +1,25 @@
+{
+  "name": "calizotabot",
+  "version": "1.0.0",
+  "description": "Sales chatbot prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mtaylor769/calizotabot.git"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "sales",
+    "calizota"
+  ],
+  "author": "Mike Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtaylor769/calizotabot/issues"
+  },
+  "homepage": "https://github.com/mtaylor769/calizotabot#readme"
+}
